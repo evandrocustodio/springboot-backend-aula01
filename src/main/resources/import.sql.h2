@@ -1,0 +1,8 @@
+INSERT INTO tab_alunos (nome) VALUES ('JOANA ALENCAR');
+INSERT INTO tab_alunos (nome) VALUES ('PEDRO JORGE');
+INSERT INTO tab_alunos (nome) VALUES ('PAULA MEDEIROS');
+INSERT INTO tab_alunos (nome) VALUES ('SIMPLICIO DOS SANTOS');
+INSERT INTO tab_alunos (nome) VALUES ('PAULO CESAR');
+INSERT INTO tab_alunos (nome) VALUES ('HENRIQUE MATHEUS');
+INSERT INTO tab_alunos (nome) VALUES ('LAURA DE ALMEIDA');
+
